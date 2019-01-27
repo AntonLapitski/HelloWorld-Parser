@@ -1,0 +1,11 @@
+{
+    "name": "hello-world-parser",
+    "description": "It's a simple parser",
+    "authors": [
+        {
+            "name": "Anton Lapitski",
+            "email": "a.lapitski.developer@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,13 @@
+version: '2.1'
+services:
+  web:
+    container_name: web
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    ports:
+      - "80:80"
+    volumes:
+      - ../app:/app
+    env_file:
+      - .env-dev
