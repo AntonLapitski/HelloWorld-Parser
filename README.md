@@ -1,4 +1,4 @@
-#HelloWorld-Parser
+# HelloWorld-Parser
 
 To run the script in web mode take these steps:
 1. Add to your /etc/hosts file line 127.0.0.1    mastery.local
